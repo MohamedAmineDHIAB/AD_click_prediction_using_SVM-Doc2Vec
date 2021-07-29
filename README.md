@@ -8,8 +8,8 @@ In the end we used Hold-Out Validation to assess some trained SVM models and got
 
 ![image](https://user-images.githubusercontent.com/85687148/126534497-c1956a73-16e8-402f-8985-da796a405200.png)
 
-where Model 1 : 
-  - Input features :
+where ***Model 1 :*** 
+  **- Input features :**
     * Day of the Month
     * Hour of the Day
     * Daily Time Spent on Site
@@ -18,8 +18,9 @@ where Model 1 :
     * Daily Internet Usage
     * gender
     * Embeddings of Ad Topic Line (using Doc2Vec)
-and Model 2 :
-  - Input features :
+    
+and ***Model 2 :***
+  **- Input features :**
     * Day of the Month
     * Hour of the Day
     * Daily Time Spent on Site
