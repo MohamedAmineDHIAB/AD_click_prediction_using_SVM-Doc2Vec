@@ -17,7 +17,7 @@ where ***Model 1 :***
     * Age
     * Area Income
     * Daily Internet Usage
-    * gender
+    * Gender
     * Embeddings of Ad Topic Line (using Doc2Vec)
     
 and ***Model 2 :***
