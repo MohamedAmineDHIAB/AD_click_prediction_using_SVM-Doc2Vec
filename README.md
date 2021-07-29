@@ -6,7 +6,7 @@ We use some text embedding technics like Doc2Vec and then we apply a classificat
 
 In the end we used Hold-Out Validation to assess some trained SVM models and got the following results :
 
-![image](https://user-images.githubusercontent.com/85687148/126534497-c1956a73-16e8-402f-8985-da796a405200.png)
+![image](https://user-images.githubusercontent.com/85687148/127579617-6ca30795-e5dc-49b5-9881-349ff96c9f6e.png)
 
 where ***Model 1 :*** 
 
